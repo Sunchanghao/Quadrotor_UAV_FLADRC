@@ -10,3 +10,5 @@ Because the internal program of Px4 flight control is very complex, we need to r
 ![image](https://github.com/Sunchanghao/Quadrotor_UAV_FLADRC/blob/main/Pic/fig1.png)
 ![image](https://github.com/Sunchanghao/Quadrotor_UAV_FLADRC/blob/main/Pic/%E5%9B%BE%E7%89%877.png)
 ![image](https://github.com/Sunchanghao/Quadrotor_UAV_FLADRC/blob/main/Pic/7.png)
+
+YouTube: https://www.youtube.com/watch?v=2X_n4jh4pAg&list=PL9DU8B4eiAGBLaWauFyilllrWsS9YA9aC
